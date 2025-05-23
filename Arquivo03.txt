@@ -1,0 +1,4 @@
+Cadastro de Produto
+Id_produto
+Nome_produto
+Preco_produto
